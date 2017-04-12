@@ -33,6 +33,7 @@
     createFile()
     decapitalize()
     farewell()
+    readFile()
     showDocumentation()
     showMainMenu()
 
