@@ -258,7 +258,7 @@ public class Robertos_P_2
    
    ////////////////////////////////////////////////////////////////////////////////////////////////
    
-      String strIDInfo = "                 ID INFO                \n"
+      String strIDInfo = "                 ID INFO\n"
                         +"Programmer          :  Cardenas Roberto \n"               
    		               +"Assignment#         :  Program #2       \n"              	
    		               +"Assignment Name     :  File IO IO       \n"
@@ -281,11 +281,13 @@ public class Robertos_P_2
                          +"     -Yvan";
                          
 
-      String strStars =   "STARS\n"
-                         +" 1.-B.	Make your program “crash-proof” so the program is \n"
-                         +"“robust” and hence, the user cannot do anything to make the\n"
-                         +"program “go bust”\n"
-                         +"Total STARS = 1";
+      String strStars =   "                           STARS\n"
+                         +" 1.-  Make your program “crash-proof” so the program is\n"
+                         +"      “robust” and hence, the user cannot do anything to make the\n"
+                         +"      program “go bust”\n"
+                         +" 2.-  Add a counter so we know how many items we have written to or read\n"
+                         +"      from disk\n"
+                         +"Total STARS = 2";
                          
       //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
       
